@@ -2,10 +2,11 @@
 
 Objetivo do semestre
 
-Minha motivação para cursar a disciplina de Algoritmos Avançados é aprender melhor como resolver problemas de programação. Ainda não tenho muito conhecimento sobre vários dos temas que serão estudados, então espero usar essa disciplina para entender melhor como os algoritmos funcionam e como torná-los mais eficientes. Até o final do semestre, quero pelo menos entender os conceitos principais da matéria e conseguir aplicar alguns deles em exercícios e programas simples. Acredito que esse conhecimento vai ser importante para minha formação na área de computação e também para o futuro profissional, já que algoritmos fazem parte do desenvolvimento de software.
+Minha motivação para cursar a disciplina de Algoritmos Avançados é aprender melhor como resolver problemas de programação. Ainda não tenho muito conhecimento sobre vários dos temas que serão estudados, então espero usar essa disciplina para entender melhor como os algoritmos funcionam e como torná-los mais eficientes. Até o final do semestre, quero pelo menos entender os conceitos principais da matéria e conseguir aplicar alguns deles em exercícios e programas simples. Acredito que esse conhecimento vai ser importante para minha formação e também para o futuro profissional.
 
-Diagnóstico inicial
-Análise de complexidade
+# Diagnóstico inicial
+
+# 1.0 Análise de complexidade
 
 O que eu já sei fazer
 
@@ -15,17 +16,17 @@ O que ainda gera dificuldade
 
 Entender como medir se um algoritmo é mais eficiente que outro.
 
-Divisão e conquista
+# 1.1 Divisão e conquista
 
 O que eu já sei fazer
 
-Ainda não conheço bem essa técnica.
+Ainda não conheço essa técnica.
 
 O que ainda gera dificuldade
 
 Entender como dividir um problema grande em partes menores e depois juntar as soluções.
 
-Recursão
+# 1.2 Recursão
 
 O que eu já sei fazer
 
@@ -35,27 +36,27 @@ O que ainda gera dificuldade
 
 Entender como montar corretamente uma função recursiva e quando usar isso.
 
-Programação dinâmica
+# 1.3 Programação dinâmica
 
 O que eu já sei fazer
 
-Ainda não conheço esse conceito.
+Conheço um pouco desse conceito.
 
 O que ainda gera dificuldade
 
-Entender como essa técnica funciona e em quais tipos de problemas ela é usada.
+Entender como fazer a divisão dos problemas como categorizar o que de fato é um grande problema do que não é e em quais tipos de problemas ela é usada.
 
-Estruturas de dados
+# 1.4 Estruturas de dados
 
 O que eu já sei fazer
 
-Tenho um conhecimento básico de estruturas simples como listas ou arrays que já usei em programação.
+Tenho um conhecimento básico de estruturas simples como listas pois estou cursando essa matéria neste semestre.
 
 O que ainda gera dificuldade
 
 Entender estruturas mais complexas e saber qual usar em cada situação.
 
-Grafos
+# 1.5 Grafos
 
 O que eu já sei fazer
 
@@ -65,7 +66,8 @@ O que ainda gera dificuldade
 
 Entender como representar grafos e como resolver problemas usando eles.
 
-Metas técnicas
+# Metas técnicas
+
 Meta 1 – Aprender o básico de análise de algoritmos
 
 Contexto
@@ -86,7 +88,7 @@ Conseguir entender e explicar exemplos simples vistos na aula.
 
 Prazo
 
-Até a metade do semestre.
+Até o fim do semestre.
 
 Meta 2 – Aprender a usar recursão
 
@@ -108,7 +110,7 @@ Conseguir implementar algumas funções recursivas básicas.
 
 Prazo
 
-Até a metade do semestre.
+Até o fim do semestre.
 
 Meta 3 – Entender o básico de programação dinâmica
 
@@ -154,23 +156,23 @@ Prazo
 
 Até o final do semestre.
 
-Rotina semanal de estudo
+# Rotina semanal de estudo
 
 Bloco 1
 
-Dia e horário: Segunda-feira – 19h às 20h
+Dia e horário: Sexta-feira ("Quando não tiver aula") – 19h às 20h
 
 Atividade: Revisar o conteúdo da aula.
 
 Bloco 2
 
-Dia e horário: Quarta-feira – 19h às 20h
+Dia e horário: Sábado – 15h às 17h
 
 Atividade: Fazer exercícios da matéria.
 
 Bloco 3
 
-Dia e horário: Sábado – 15h às 16h
+Dia e horário: Domingo – 14h às 15h
 
 Atividade: Praticar programação e revisar dificuldades.
 
