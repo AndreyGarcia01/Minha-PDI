@@ -176,7 +176,7 @@ Dia e horário: Domingo – 14h às 15h
 
 Atividade: Praticar programação e revisar dificuldades.
 
-Plano de uso de IA
+# Plano de uso de IA
 
 Pretendo usar IA como uma ferramenta de apoio para estudar. Posso usar para tirar dúvidas sobre conceitos que eu não entendi bem ou para ver explicações diferentes sobre o conteúdo da aula. Também posso usar para pedir exemplos ou exercícios para praticar.
 
